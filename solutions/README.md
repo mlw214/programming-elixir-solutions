@@ -5,3 +5,4 @@
 - Chapter 7 -> ListsAndRecursion.exs
 - Chapter 10 -> ProcessingCollections.exs
 - Chapter 11 -> StringsAndBinaries.exs
+- Chapter 12 -> ControlFlow.exs
